@@ -56,7 +56,7 @@ class QueryResults:
 class Keyboards:
     def info_keyboard(self):
         return types.InlineKeyboardMarkup(inline_keyboard=
-             [[types.InlineKeyboardButton('pt Português',    url='https://teletype.in/@bl4ckoutmsgbot/bl4ckoutmsgbot_pt'),
+             [[types.InlineKeyboardButton('🇧🇷 Português-BR',    url='https://teletype.in/@bl4ckoutmsgbot/bl4ckoutmsgbot_pt'),
                types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@undrcrxwn/hidethisbot_pl')],
               [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://teletype.in/@undrcrxwn/hidethisbot_ru'),
                types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@undrcrxwn/hidethisbot_ua')],
