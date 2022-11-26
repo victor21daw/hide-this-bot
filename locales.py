@@ -36,7 +36,7 @@ locale_de.except_title = 'Akzeptiere %s'
 locale_it.except_title = 'Tranne %s'
 
 # SPOILER_TITLE
-locale_pt.spoiler_title = '🧲Revelar mensagem para todos'    
+locale_pt.spoiler_title = '✅ Revelar mensagem para todos'    
 locale_ru.spoiler_title = 'Спойлер'
 locale_uk.spoiler_title = 'Спойлер'
 locale_de.spoiler_title = 'Spoiler'
@@ -51,7 +51,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-        '✉️Olha a mensagem✉️\n'
+        '✉️Olha a mensagem✉️\n\n'
         '🔍 Lembre-se somente a pessoa para quem você enviou'
         'a mensagem, poderá lê-la.\n\n'
         '🔒 Segredinho privado enviado com sucesso para %s.')
@@ -62,7 +62,7 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '%s, você foi exluído(a) dessa mensagem privada 🥺\n'
+        '%s, você foi exluído(a) dessa mensagem privada 🥺\n\n'
         'Será que estão falando mal ou bem de ti?🤐')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
 locale_uk.except_message = 'Приватне повідомлення для всіх, крім %s.'
@@ -71,7 +71,7 @@ locale_it.except_message = 'Messaggio privato per tutti tranne %s.'
 
 # SPOILER_MESSAGE
 locale_pt.spoiler_message = (
-        '👥Mensagem enviada para todos do grupo.\n'
+        '👥Mensagem enviada para todos do grupo.\n\n'
         '👀Agora é sua oportunidade, curioso(a) de plantão!')
 locale_ru.spoiler_message = 'Публичное сообщение под спойлером.'
 locale_uk.spoiler_message = 'Публічне повідомлення під спойлером.'
@@ -143,7 +143,7 @@ locale_it.too_long_description = 'Perfavore accorcia la lunghezza del tuo messag
 
 # NOT_ALLOWED
 locale_pt.not_allowed = (
-        'Você é curioso(a) de mais ein!🧐'
+        'Você é curioso(a) de mais ein!🧐\n\n'
         '⚠️Você não tem permissão para visualizar este conteúdo⚠️')
 locale_ru.not_allowed = 'Вам запрещено просматривать этот контент.'
 locale_uk.not_allowed = 'Вам заборонено переглядати цей контент.'
@@ -151,14 +151,14 @@ locale_de.not_allowed = 'Dir ist nicht gestattet, diesen Inhalt zu lesen.'
 locale_it.not_allowed = 'Non hai il permesso per vedere questo messaggio.'
 
 # NOT_ACCESSIBLE
-locale_pt.not_accessible = '⛔ Este conteúdo não está mais acessível. ⛔'
+locale_pt.not_accessible = '⛔ Este conteúdo não está mais acessível ⛔'
 locale_ru.not_accessible = 'Этот контент больше недоступен.'
 locale_uk.not_accessible = 'Цей контент більше недоступний.'
 locale_de.not_accessible = 'Der Inhalt ist nicht mehr sichtbar.'
 locale_it.not_accessible = 'Questo contenuto non è più accessibile.'
 
 # VIEW
-locale_pt.view = '👁️Ver👁️'
+locale_pt.view = '🔓 Ver 🔓'
 locale_ru.view = 'Открыть'
 locale_uk.view = 'Відкрити'
 locale_de.view = 'Ansehen'
