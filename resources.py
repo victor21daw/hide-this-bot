@@ -56,13 +56,13 @@ class QueryResults:
 class Keyboards:
     def info_keyboard(self):
         return types.InlineKeyboardMarkup(inline_keyboard=
-             [[types.InlineKeyboardButton('🇧🇷 Português-BR',    url='https://teletype.in/@bl4ckoutmsgbot/bl4ckoutmsgbot_pt'),
-               types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@undrcrxwn/hidethisbot_pl')],
-              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://teletype.in/@undrcrxwn/hidethisbot_ru'),
-               types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@undrcrxwn/hidethisbot_ua')],
-              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@undrcrxwn/hidethisbot_it'),
-               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@undrcrxwn/hidethisbot_cz')],
-              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@undrcrxwn/hidethisbot_es')]])
+             [[types.InlineKeyboardButton('🇧🇷 Português-BR',    url='https://teletype.in/@ansmsgbot/ansmsgbot_pt'),
+               types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@ansmsgbot/ansmsgbot_pl')],
+              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://teletype.in/@ansmsgbot/ansmsgbot_ru'),
+               types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@ansmsgbot/ansmsgbot_ua')],
+              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@ansmsgbot/ansmsgbot_it'),
+               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@ansmsgbot/ansmsgbot_cz')],
+              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@ansmsgbot/ansmsgbot_es')]])
 
 class Media:
     def group_greeting_sticker_id(self):
