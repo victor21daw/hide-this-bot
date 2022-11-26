@@ -51,7 +51,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-        '✉️Olha a mensagem✉️\n\n'
+        '        ✉️Olha a mensagem✉️\n\n'
         '🔍 Lembre-se somente a pessoa para quem você enviou'
         'a mensagem, poderá lê-la.\n\n'
         '🔒 Segredinho privado enviado com sucesso para %s.')
