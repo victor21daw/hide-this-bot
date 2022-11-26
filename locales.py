@@ -50,7 +50,9 @@ locale_de.too_long_message = '🥺 Sorry, deine Nachricht kann nicht gesendet we
 locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere mandato, supera il limite di 200 caratteri.'
 
 # FOR_MESSAGE
-locale_pt.for_message = 'Mensagem privada para %s.'
+locale_pt.for_message = (
+        '✉️Olha a mensagem✉️\n\n'
+        '🔒Segredinho privada enviado com sucesso para %s.🔒')
 locale_ru.for_message = 'Приватное сообщение для %s.'
 locale_uk.for_message = 'Приватне повідомлення для %s.'
 locale_de.for_message = 'Private Nachricht für %s.'
