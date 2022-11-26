@@ -22,14 +22,14 @@ locale_de.too_long_title = 'Deine Nachricht ist zu lang'
 locale_it.too_long_title = 'Il tuo messaggio è troppo lungo'
 
 # FOR_TITLE
-locale_pt.for_title = 'Para %s'
+locale_pt.for_title = '⭕ Enviar mensagem para %s'
 locale_ru.for_title = 'Для %s'
 locale_uk.for_title = 'Для %s'
 locale_de.for_title = 'Für %s'
 locale_it.for_title = 'Per %s'
 
 # EXCEPT_TITLE
-locale_pt.except_title = 'Exceto %s'
+locale_pt.except_title = '💬 Enviar mensagem para todos, menos %s'
 locale_ru.except_title = 'Кроме %s'
 locale_uk.except_title = 'Крім %s'
 locale_de.except_title = 'Akzeptiere %s'
@@ -51,7 +51,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-        '        ✉️Olha a mensagem✉️\n\n'
+                    '✉️Olha a mensagem✉️\n\n'
         '🔍 Lembre-se somente a pessoa para quem você enviou'
         'a mensagem, poderá lê-la.\n\n'
         '🔒 Segredinho privado enviado com sucesso para %s.')
@@ -62,8 +62,8 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '%s, você foi exluído(a) dessa mensagem privada 🥺\n\n'
-        'Será que estão falando mal ou bem de ti?🤐')
+        '🃏 %s, você foi exluído(a) dessa mensagem privada 🥺\n\n'
+        '◼️ Será que estão falando mal ou bem de ti?🤐')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
 locale_uk.except_message = 'Приватне повідомлення для всіх, крім %s.'
 locale_de.except_message = 'Private Nachricht an alle außer %s.'
@@ -143,7 +143,7 @@ locale_it.too_long_description = 'Perfavore accorcia la lunghezza del tuo messag
 
 # NOT_ALLOWED
 locale_pt.not_allowed = (
-        'Você é curioso(a) de mais ein!🧐\n\n'
+        '⚜️Você é curioso(a) de mais ein!⚜️\n\n'
         '⚠️Você não tem permissão para visualizar este conteúdo⚠️')
 locale_ru.not_allowed = 'Вам запрещено просматривать этот контент.'
 locale_uk.not_allowed = 'Вам заборонено переглядати цей контент.'
