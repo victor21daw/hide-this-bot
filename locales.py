@@ -51,10 +51,10 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-                                   '✉️Olha a mensagem✉️\n\n'
-        '🔍 Lembre-se somente a pessoa para quem você enviou '
-        'a mensagem, poderá lê-la.\n\n'
-        '🔒 Segredinho privado enviado com sucesso para %s.')
+                                                                            '✉️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇸 🇪 🇨 🇷 🇪 🇹 🇦 ✉️\n\n'
+        '🔍 ʟᴇᴍʙʀᴇ-sᴇ sᴏᴍᴇɴᴛᴇ ᴀ ᴘᴇssᴏᴀ ᴘᴀʀᴀ ǫᴜᴇᴍ ᴠᴏᴄᴇ ᴇɴᴠɪᴏᴜ '
+        'ᴀ ᴍᴇɴsᴀɢᴇᴍ, ᴘᴏᴅᴇʀᴀ ʟᴇ-ʟᴀ.\n\n'
+        '🔒 sᴇɢʀᴇᴅɪɴʜᴏ ᴘʀɪᴠᴀᴅᴏ ᴇɴᴠɪᴀᴅᴏ ᴄᴏᴍ sᴜᴄᴇssᴏ ᴘᴀʀᴀ %s.')
 locale_ru.for_message = 'Приватное сообщение для %s.'
 locale_uk.for_message = 'Приватне повідомлення для %s.'
 locale_de.for_message = 'Private Nachricht für %s.'
