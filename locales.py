@@ -51,7 +51,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-                                                                            '✉️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇸 🇪 🇨 🇷 🇪 🇹 🇦 ✉️\n\n'
+        '                                           ✉️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇸 🇪 🇨 🇷 🇪 🇹 🇦 ✉️\n\n'
         '🔍 ʟᴇᴍʙʀᴇ-sᴇ sᴏᴍᴇɴᴛᴇ ᴀ ᴘᴇssᴏᴀ ᴘᴀʀᴀ ǫᴜᴇᴍ ᴠᴏᴄᴇ ᴇɴᴠɪᴏᴜ '
         'ᴀ ᴍᴇɴsᴀɢᴇᴍ, ᴘᴏᴅᴇʀᴀ ʟᴇ-ʟᴀ.\n\n'
         '🔒 sᴇɢʀᴇᴅɪɴʜᴏ ᴘʀɪᴠᴀᴅᴏ ᴇɴᴠɪᴀᴅᴏ ᴄᴏᴍ sᴜᴄᴇssᴏ ᴘᴀʀᴀ %s.')
