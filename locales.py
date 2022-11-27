@@ -45,7 +45,7 @@ locale_it.spoiler_title = 'Spoiler'
 # TOO_LONG_MESSAGE
 locale_pt.too_long_message = (
         '🥺 Desculpe, sua mensagem não pode ser enviada ' 
-        'porque excede o limite de 200 caracteres.'
+        'porque excede o limite de 200 caracteres.')
 locale_ru.too_long_message = '🥺 Ваше сообщение не может быть отправлено, так как его длина превышает лимит в 200 символов.'
 locale_uk.too_long_message = '🥺 Ваше повідомлення не може бути відправлено, так як його довжина перевищує ліміт в 200 символів.'
 locale_de.too_long_message = '🥺 Sorry, deine Nachricht kann nicht gesendet werden, da sie das Limit von 200 Zeichptüberschreitet.'
