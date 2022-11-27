@@ -44,7 +44,7 @@ locale_it.spoiler_title = 'Spoiler'
 
 # TOO_LONG_MESSAGE
 locale_pt.too_long_message = (
-        '🛑🅜🅔🅝🅢🅐🅖🅔🅜 🅛🅞🅝🅖🅐🛑\n\n'
+        '✉️🅜🅔🅝🅢🅐🅖🅔🅜 🅛🅞🅝🅖🅐✉️\n\n'
         '🥺 ᴅᴇsᴄᴜʟᴘᴇ, sᴜᴀ ᴍᴇɴsᴀɢᴇᴍ ɴᴀᴏ ᴘᴏᴅᴇ sᴇʀ ᴇɴᴠɪᴀᴅᴀ ' 
         'ᴘᴏʀǫᴜᴇ ᴇxᴄᴇᴅᴇ ᴏ ʟɪᴍɪᴛᴇ ᴅᴇ 200 ᴄᴀʀᴀᴄᴛᴇʀᴇs.')
 locale_ru.too_long_message = '🥺 Ваше сообщение не может быть отправлено, так как его длина превышает лимит в 200 символов.'
@@ -65,7 +65,7 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '☢️🅜🅔🅝🅢🅐🅖🅔🅜 🅢🅔🅛🅔🅣🅘🅥🅐☢️\n\n'
+        '✉️🅜🅔🅝🅢🅐🅖🅔🅜 🅢🅔🅛🅔🅣🅘🅥🅐✉️\n\n'
         '💬 %s, ᴠᴏᴄᴇ ғᴏɪ ᴇxʟᴜɪᴅᴏ(ᴀ) ᴅᴇsᴛᴀ ᴍᴇɴsᴀɢᴇᴍ ᴘʀɪᴠᴀᴅᴀ.\n\n'
         '🔥 sᴇʀᴀ ǫᴜᴇ ᴇsᴛᴀᴏ ғᴀʟᴀɴᴅᴏ ᴍᴀʟ ᴅᴇ ᴛɪ?🤔')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
@@ -75,7 +75,7 @@ locale_it.except_message = 'Messaggio privato per tutti tranne %s.'
 
 # SPOILER_MESSAGE
 locale_pt.spoiler_message = (
-        '📌🅜🅔🅝🅢🅐🅖🅔🅜 🅟🅤🅑🅛🅘🅒🅐📌\n\n'
+        '✉️🅜🅔🅝🅢🅐🅖🅔🅜 🅟🅤🅑🅛🅘🅒🅐✉️\n\n'
         '👥ᴍᴇɴsᴀɢᴇᴍ ᴇɴᴠɪᴀᴅᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏs ᴅᴏ ɢʀᴜᴘᴏ.\n\n'
         '👀ᴀɢᴏʀᴀ ᴇ sᴜᴀ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇ, ᴄᴜʀɪᴏsᴏ(ᴀ) ᴅᴇ ᴘʟᴀɴᴛãᴏ!')
 locale_ru.spoiler_message = 'Публичное сообщение под спойлером.'
