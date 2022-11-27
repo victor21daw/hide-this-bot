@@ -65,7 +65,7 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '☢️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇸 🇪 🇱 🇪 🇹 🇮 🇻 🇦☢️\n\n'
+        '☢️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇷 🇪 🇸 🇹 🇷 🇮 🇹 🇮 🇻 🇦☢️\n\n'
         '💬 %s, ᴠᴏᴄᴇ ғᴏɪ ᴇxʟᴜɪᴅᴏ(ᴀ) ᴅᴇsᴛᴀ ᴍᴇɴsᴀɢᴇᴍ ᴘʀɪᴠᴀᴅᴀ.\n\n'
         '🔥 sᴇʀᴀ ǫᴜᴇ ᴇsᴛᴀᴏ ғᴀʟᴀɴᴅᴏ ᴍᴀʟ ᴅᴇ ᴛɪ?🤔')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
