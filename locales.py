@@ -63,7 +63,7 @@ locale_it.for_message = 'Messaggio privato per %s.'
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
         '💬 %s, você foi exluído(a) desta mensagem privada.\n\n'
-        '🔥 Será que estão falando mal ou bem de ti')
+        '🔥 Será que estão falando mal de ti?🤔')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
 locale_uk.except_message = 'Приватне повідомлення для всіх, крім %s.'
 locale_de.except_message = 'Private Nachricht an alle außer %s.'
@@ -158,7 +158,7 @@ locale_de.not_accessible = 'Der Inhalt ist nicht mehr sichtbar.'
 locale_it.not_accessible = 'Questo contenuto non è più accessibile.'
 
 # VIEW
-locale_pt.view = '🔓 Ver 🔓'
+locale_pt.view = '⭐ Ver ⭐'
 locale_ru.view = 'Открыть'
 locale_uk.view = 'Відкрити'
 locale_de.view = 'Ansehen'
