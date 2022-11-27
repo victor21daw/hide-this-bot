@@ -75,7 +75,7 @@ locale_it.except_message = 'Messaggio privato per tutti tranne %s.'
 
 # SPOILER_MESSAGE
 locale_pt.spoiler_message = (
-        '📌🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇵 🇺 🇧 🇱 🇮 🇨 🇦📌'
+        '📌🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇵 🇺 🇧 🇱 🇮 🇨 🇦📌\n\n'
         '👥ᴍᴇɴsᴀɢᴇᴍ ᴇɴᴠɪᴀᴅᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏs ᴅᴏ ɢʀᴜᴘᴏ.\n\n'
         '👀ᴀɢᴏʀᴀ ᴇ sᴜᴀ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇ, ᴄᴜʀɪᴏsᴏ(ᴀ) ᴅᴇ ᴘʟᴀɴᴛãᴏ!')
 locale_ru.spoiler_message = 'Публичное сообщение под спойлером.'
