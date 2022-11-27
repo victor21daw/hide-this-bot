@@ -85,31 +85,32 @@ locale_it.spoiler_message = 'Messaggio contenente spoiler.'
 
 # GROUP_GREETING_MESSAGE
 locale_pt.group_greeting_message = (
-        '👋 Oi! 𝕆𝕚! 𝕄𝕖𝕦 𝕟𝕠𝕞𝕖 𝕖 %s 𝕖 𝕡𝕠𝕤𝕤𝕠 𝕒𝕛𝕦𝕕𝕒-𝕝𝕠 𝕒 𝕖𝕟𝕧𝕚𝕒𝕣 𝕞𝕖𝕟𝕤𝕒𝕘𝕖𝕟𝕤 𝕡𝕣𝕚𝕧𝕒𝕕𝕒𝕤 𝕢𝕦𝕖 𝕒𝕡𝕖𝕟𝕒𝕤 𝕒𝕝𝕘𝕦𝕞𝕒𝕤 𝕡𝕖𝕤𝕤𝕠𝕒𝕤 𝕡𝕠𝕕𝕖𝕞 𝕧𝕖𝕣. '
-        'ℙ𝕒𝕣𝕒 𝕤𝕒𝕓𝕖𝕣 𝕞𝕒𝕚𝕤 𝕖𝕟𝕧𝕚𝕖 /start@%s 𝕖 𝕤𝕚𝕟𝕥𝕒-𝕤𝕖 à 𝕧𝕠𝕟𝕥𝕒𝕕𝕖 𝕡𝕒𝕣𝕒 𝕡𝕖𝕕𝕚𝕣 𝕒𝕛𝕦𝕕𝕒 𝕖𝕞 𝕟𝕠𝕤𝕤𝕠 '
-        '<a href="t.me/lbrabo">𝕔𝕒𝕟𝕒𝕝 𝕕𝕖 𝕤𝕥𝕚𝕔𝕜𝕖𝕣𝕤</a> ℙ𝕠𝕕𝕖 𝕣𝕠𝕦𝕓𝕒𝕣 𝕢𝕦𝕒𝕟𝕥𝕒𝕤 𝕗𝕚𝕘𝕦𝕣𝕚𝕟𝕙𝕒𝕤 𝕢𝕦𝕚𝕤𝕖𝕣!')
+        '👋ᴏʟᴀ, ᴇᴜ ɴᴏᴍᴇ é %s! ᴏʙʀɪɢᴀᴅᴏ ᴘᴏʀ ᴍᴇ ᴀᴅɪᴄɪᴏɴᴀʀ ᴇᴍ sᴇᴜ ɢʀᴜᴘᴏ\n\n'
+        '🗺️ ᴘᴏssᴏ ᴀᴊᴜᴅᴀ-ʟᴏ ᴀ ᴇɴᴠɪᴀʀ ᴍᴇɴsᴀɢᴇɴs ᴘʀɪᴠᴀᴅᴀs ǫᴜᴇ ᴀᴘᴇɴᴀs ᴀʟɢᴜᴍᴀs ᴘᴇssᴏᴀs ᴘᴏᴅᴇᴍ ᴠᴇʀ. /n'
+        'ᴘᴀʀᴀ sᴀʙᴇʀ ᴍᴀɪs ᴇɴᴠɪᴇ /sᴛᴀʀᴛ@%s ᴇ sɪɴᴛᴀ-sᴇ à ᴠᴏɴᴛᴀᴅᴇ ᴘᴀʀᴀ ᴘᴇᴅɪʀ ᴀᴊᴜᴅᴀ ᴇᴍ ɴᴏssᴏ '
+        '<a href="t.me/kylorensBot">ʙᴏᴛ ᴅᴇ sᴜᴘᴏʀᴛᴇ</a>.')
 locale_ru.group_greeting_message = (
         '👋 Привет! Меня зовут %s и я могу помочь вам отправлять сообщения, которые смогут прочитать только '
         'определённый круг лиц. Чтобы узнать больше отправьте команду /start@%s и не стесняйтесь просить о помощи '
-        'в нашем <a href="t.me/lbrabo">стикер канала</a>, если у вас появятся какие-либо вопросы.')
+        'в нашем <a href="t.me/kylorensBot">стикер канала</a>, если у вас появятся какие-либо вопросы.')
 locale_uk.group_greeting_message = (
         '👋 Привіт! Мене звуть %s і я можу допомогти вам відправляти повідомлення, які зможуть прочитати тільки '
         'певне коло осіб. Щоб дізнатися більше відправте команду /start@%s і не соромтеся просити про допомогу '
-        'в нашому <a href="t.me/lbrabo">публічному чаті</a>, якщо у вас виникнуть будь-які питання.')
+        'в нашому <a href="t.me/kylorensBot">публічному чаті</a>, якщо у вас виникнуть будь-які питання.')
 locale_de.group_greeting_message = (
         '👋 Hi! Mein Name ist %s und ich kann dir helfen, private Nachrichten zu verschicken, die nur bestimmte Personen sehen können. '
         'Um zu sehen, wie das geht, sende einfach /start@%s! Fühle dich frei, bei Fragen, in unserer '
-        '<a href="t.me/lbrabo">Support Gruppe</a> zu fragen.')
+        '<a href="t.me/kylorensBot">Support Gruppe</a> zu fragen.')
 locale_it.group_greeting_message = (
         '👋 Ciao! Il mio nome è %s E posso aiutarti ad inviare messaggi privati che solo alcuni possono vedere. '
         'per sapere di più invia /start@%s e sentiti libero di chiedere aiuto '
-        '<a href="t.me/lbrabo">canale adesivo</a> se hai domande.')
+        '<a href="t.me/kylorensBot">canale adesivo</a> se hai domande.')
 
 # INFO_MESSAGE
 locale_pt.info_message = (
         'sᴇ ᴠᴏᴄᴇ ᴀɪɴᴅᴀ ᴛɪᴠᴇʀ ᴅᴜᴠɪᴅᴀs ᴅᴇᴘᴏɪs ᴅᴇ ʟᴇʀ ᴏ ᴀʀᴛɪɢᴏ, ᴇɴᴛʀᴇ ᴇᴍ ᴄᴏɴᴛᴀᴛᴏ ᴄᴏᴍ ᴏ sᴜᴘᴏʀᴛᴇ ᴏᴜ sɪᴍᴘʟᴇsᴍᴇɴᴛᴇ ᴘᴇʀɢᴜɴᴛᴇ '
         'ᴘᴀʀᴀ ᴏʙᴛᴇʀ ᴀᴊᴜᴅᴀ ᴇᴍ ɴᴏssᴏ ʙᴀᴛᴇ-ᴘᴀᴘᴏ ᴘúʙʟɪᴄᴏ ᴀ ǫᴜᴀʟǫᴜᴇʀ ᴍᴏᴍᴇɴᴛᴏ.\n\n'
-        '👥 ᴄᴀɴᴀʟ: @ʟʙʀᴀʙᴏ\n'
+        '👥 ᴄᴀɴᴀʟ: @ʟʙʀᴀʙᴏ\n '
         '⚙ sᴜᴘᴏʀᴛᴇ: @ᴋʏʟᴏʀᴇɴsʙᴏᴛ')
 locale_ru.info_message = (
         'Если у вас остались вопросы после прочтения статьи, вы можете в любое время обратиться в '
