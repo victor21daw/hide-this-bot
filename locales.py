@@ -85,7 +85,7 @@ locale_it.spoiler_message = 'Messaggio contenente spoiler.'
 
 # GROUP_GREETING_MESSAGE
 locale_pt.group_greeting_message = (
-        '👋ᴏʟᴀ, ᴇᴜ ɴᴏᴍᴇ é %s! ᴏʙʀɪɢᴀᴅᴏ ᴘᴏʀ ᴍᴇ ᴀᴅɪᴄɪᴏɴᴀʀ ᴇᴍ sᴇᴜ ɢʀᴜᴘᴏ\n\n'
+        '👋ᴏʟᴀ, ᴍᴇᴜ ɴᴏᴍᴇ é %s! ᴏʙʀɪɢᴀᴅᴏ ᴘᴏʀ ᴍᴇ ᴀᴅɪᴄɪᴏɴᴀʀ ᴇᴍ sᴇᴜ ɢʀᴜᴘᴏ\n\n'
         '🗺️ ᴘᴏssᴏ ᴀᴊᴜᴅᴀ-ʟᴏ ᴀ ᴇɴᴠɪᴀʀ ᴍᴇɴsᴀɢᴇɴs ᴘʀɪᴠᴀᴅᴀs ǫᴜᴇ ᴀᴘᴇɴᴀs ᴀʟɢᴜᴍᴀs ᴘᴇssᴏᴀs ᴘᴏᴅᴇᴍ ᴠᴇʀ.\n\n'
         '🔱ᴘᴀʀᴀ sᴀʙᴇʀ ᴍᴀɪs ᴇɴᴠɪᴇ /start@%s ᴇ sɪɴᴛᴀ-sᴇ à ᴠᴏɴᴛᴀᴅᴇ ᴘᴀʀᴀ ᴘᴇᴅɪʀ ᴀᴊᴜᴅᴀ ᴇᴍ ɴᴏssᴏ '
         '<a href="t.me/kylorensBot">ʙᴏᴛ ᴅᴇ sᴜᴘᴏʀᴛᴇ</a>.')
