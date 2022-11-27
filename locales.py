@@ -22,7 +22,7 @@ locale_de.too_long_title = 'Deine Nachricht ist zu lang'
 locale_it.too_long_title = 'Il tuo messaggio è troppo lungo'
 
 # FOR_TITLE
-locale_pt.for_title = '⭕ Enviar mensagem para %s'
+locale_pt.for_title = '💬 Enviar mensagem para %s'
 locale_ru.for_title = 'Для %s'
 locale_uk.for_title = 'Для %s'
 locale_de.for_title = 'Für %s'
@@ -43,7 +43,9 @@ locale_de.spoiler_title = 'Spoiler'
 locale_it.spoiler_title = 'Spoiler'
 
 # TOO_LONG_MESSAGE
-locale_pt.too_long_message = '🥺 Desculpe, sua mensagem não pode ser enviada porque excede o limite de 200 caracteres.'
+locale_pt.too_long_message = (
+        '🥺 Desculpe, sua mensagem não pode ser enviada ' 
+        'porque excede o limite de 200 caracteres.'
 locale_ru.too_long_message = '🥺 Ваше сообщение не может быть отправлено, так как его длина превышает лимит в 200 символов.'
 locale_uk.too_long_message = '🥺 Ваше повідомлення не може бути відправлено, так як його довжина перевищує ліміт в 200 символів.'
 locale_de.too_long_message = '🥺 Sorry, deine Nachricht kann nicht gesendet werden, da sie das Limit von 200 Zeichptüberschreitet.'
@@ -51,7 +53,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-        '                                           ✉️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇸 🇪 🇨 🇷 🇪 🇹 🇦 ✉️\n\n'
+        '✉️🇲 🇪 🇳 🇸 🇦 🇬 🇪 🇲  🇸 🇪 🇨 🇷 🇪 🇹 🇦 ✉️\n\n'
         '🔍 ʟᴇᴍʙʀᴇ-sᴇ sᴏᴍᴇɴᴛᴇ ᴀ ᴘᴇssᴏᴀ ᴘᴀʀᴀ ǫᴜᴇᴍ ᴠᴏᴄᴇ ᴇɴᴠɪᴏᴜ '
         'ᴀ ᴍᴇɴsᴀɢᴇᴍ, ᴘᴏᴅᴇʀᴀ ʟᴇ-ʟᴀ.\n\n'
         '🔒 sᴇɢʀᴇᴅɪɴʜᴏ ᴘʀɪᴠᴀᴅᴏ ᴇɴᴠɪᴀᴅᴏ ᴄᴏᴍ sᴜᴄᴇssᴏ ᴘᴀʀᴀ %s.')
