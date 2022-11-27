@@ -62,8 +62,8 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '🥺 %s, você foi exluído(a) desta mensagem privada. '
-        'Será que estão falando mal ou bem de ti?')
+        '💬 Você foi exluído(a) desta mensagem privada.\n\n'
+        '🔥 Será que estão falando mal ou bem de ti, %s?')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
 locale_uk.except_message = 'Приватне повідомлення для всіх, крім %s.'
 locale_de.except_message = 'Private Nachricht an alle außer %s.'
