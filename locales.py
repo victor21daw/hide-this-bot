@@ -51,7 +51,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-                    '✉️Olha a mensagem✉️\n\n'
+                                   '✉️Olha a mensagem✉️\n\n'
         '🔍 Lembre-se somente a pessoa para quem você enviou '
         'a mensagem, poderá lê-la.\n\n'
         '🔒 Segredinho privado enviado com sucesso para %s.')
@@ -62,8 +62,8 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '💬 Você foi exluído(a) desta mensagem privada.\n\n'
-        '🔥 Será que estão falando mal ou bem de ti, %s?')
+        '💬 %s, você foi exluído(a) desta mensagem privada.\n\n'
+        '🔥 Será que estão falando mal ou bem de ti')
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
 locale_uk.except_message = 'Приватне повідомлення для всіх, крім %s.'
 locale_de.except_message = 'Private Nachricht an alle außer %s.'
