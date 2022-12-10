@@ -62,7 +62,7 @@ class Keyboards:
                types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@leviobrabo/pombomsgbot_ua')],
               [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@leviobrabo/pombomsgbot_it'),
                types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@leviobrabo/pombomsgbot_cz')],
-              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@leviobrabo/pombomsgbot_es')]
+              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@leviobrabo/pombomsgbot_es'),
              types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@leviobrabo/pombomsgbot_pl')]])
 
 class Media:
