@@ -56,19 +56,21 @@ class QueryResults:
 class Keyboards:
     def info_keyboard(self):
         return types.InlineKeyboardMarkup(inline_keyboard=
-             [[types.InlineKeyboardButton('🇺🇸 English',    url='https://teletype.in/@undrcrxwn/hidethisbot_en'),
-               types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@undrcrxwn/hidethisbot_pl')],
-              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://teletype.in/@undrcrxwn/hidethisbot_ru'),
-               types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@undrcrxwn/hidethisbot_ua')],
-              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@undrcrxwn/hidethisbot_it'),
-               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@undrcrxwn/hidethisbot_cz')],
-              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@undrcrxwn/hidethisbot_es')]])
+             [[types.InlineKeyboardButton('🇧🇷 Português-BR',    url='https://teletype.in/@leviobrabo/pombomsgbot_pt'),
+               types.InlineKeyboardButton('🇺🇸 English',    url='https://teletype.in/@leviobrabo/pombomsgbot_en')],
+              [types.InlineKeyboardButton('🇷🇺 Русский',    url='https://teletype.in/@leviobrabo/pombomsgbot_ru'),
+               types.InlineKeyboardButton('🇺🇦 Українська', url='https://teletype.in/@leviobrabo/pombomsgbot_ua')],
+              [types.InlineKeyboardButton('🇮🇹 Italiano',   url='https://teletype.in/@leviobrabo/pombomsgbot_it'),
+               types.InlineKeyboardButton('🇨🇿 Čeština',    url='https://teletype.in/@leviobrabo/pombomsgbot_cz')],
+              [types.InlineKeyboardButton('🇪🇸 Español',    url='https://teletype.in/@leviobrabo/pombomsgbot_es'),
+             types.InlineKeyboardButton('🇵🇱 Polski',     url='https://teletype.in/@leviobrabo/pombomsgbot_pl')]])
+
 
 class Media:
     def group_greeting_sticker_id(self):
-        return random.choice(('CAACAgIAAxkBAAECkihg7Y5tYnlKz9jRe6QCNOyvEZri2wACSQ4AAliyaUuDPYCgY_2GXiAE',
-                              'CAACAgIAAxkBAAECkilg7Y5tzJPtIX4UMDgYaoxD6zcrogAC8Q0AAvMraEvkpXQDG5qEbyAE',
-                              'CAACAgIAAxkBAAECkipg7Y5tQk6MZlccqoudX9PEnxPbUwACfBAAAhJpcEuU9SdfdRAPdiAE'))
+        return random.choice(('CAACAgEAAxkBAAISQWOC8VsrqyfpWlpii-alLy1_DUbUAAI2AgAC5b2wRNk2tzRjCpEeKwQ',
+                              'CAACAgEAAxkBAAISQmOC8W08_Xbhp48ieLdp8EYyj27wAAKKAgACK_tIRbbur0yldiPDKwQ',
+                              'CAACAgEAAxkBAAISQ2OC8Xi3K9ijOfd6S3p0z3rv0Z5SAAIeBQACHJoIRMdNoaZYgx2EKwQ'))
 
 class Resources:
     def __init__(self, locales: LocalesDict):
