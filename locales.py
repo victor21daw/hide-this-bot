@@ -1,7 +1,7 @@
 from locales_dict import Locale, LocalesDict
 
 locale_pt = Locale()
-locale_en = Locale(
+locale_en = Locale()
 locale_ru = Locale()
 locale_uk = Locale()
 locale_de = Locale()
