@@ -14,7 +14,7 @@ locales = LocalesDict({
     'uk': locale_uk,
     'de': locale_de,
     'it': locale_it
-}, locale_en)
+}, locale_pt)
 
 # TOO_LONG_TITLE
 locale_pt.too_long_title = '😮 sᴜᴀ ᴍᴇɴsᴀɢᴇᴍ ᴇ ᴍᴜɪᴛᴏ ʟᴏɴɢᴀ'
