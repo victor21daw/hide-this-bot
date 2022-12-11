@@ -61,7 +61,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-        '{1:^8}.format(✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️)'
+        '\t\t(✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️)\n\n\n'
         '🔒 sᴇɢʀᴇᴅɪɴʜᴏ ᴇɴᴠɪᴀᴅᴏ ᴄᴏᴍ sᴜᴄᴇssᴏ ᴘᴀʀᴀ %s.')
 locale_en.for_message = 'Private message for %s.'
 locale_ru.for_message = 'Приватное сообщение для %s.'
