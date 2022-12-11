@@ -50,7 +50,7 @@ locale_it.spoiler_title = 'Spoiler'
 
 # TOO_LONG_MESSAGE
 locale_pt.too_long_message = (
-        '{1:^8} (✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️)\n\n\n'
+        '\t✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
         '🥺 ᴅᴇsᴄᴜʟᴘᴇ, sᴜᴀ ᴍᴇɴsᴀɢᴇᴍ ɴᴀᴏ ᴘᴏᴅᴇ sᴇʀ ᴇɴᴠɪᴀᴅᴀ ' 
         'ᴘᴏʀǫᴜᴇ ᴇxᴄᴇᴅᴇ ᴏ ʟɪᴍɪᴛᴇ ᴅᴇ 200 ᴄᴀʀᴀᴄᴛᴇʀᴇs.')
 locale_en.too_long_message = '🥺 Sorry, your message can\'t be sent as it exceeds the limit of 200 characters.'
@@ -61,7 +61,7 @@ locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere
 
 # FOR_MESSAGE
 locale_pt.for_message = (
-        '\t\t(✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️)\n\n\n'
+        '\t✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
         '🔒 sᴇɢʀᴇᴅɪɴʜᴏ ᴇɴᴠɪᴀᴅᴏ ᴄᴏᴍ sᴜᴄᴇssᴏ ᴘᴀʀᴀ %s.')
 locale_en.for_message = 'Private message for %s.'
 locale_ru.for_message = 'Приватное сообщение для %s.'
@@ -71,11 +71,11 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '              ✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
+        '\t✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
         '💬 %s, ᴠᴏᴄᴇ ғᴏɪ ᴇxʟᴜɪᴅᴏ(ᴀ) ᴅᴇsᴛᴀ ᴍᴇɴsᴀɢᴇᴍ ᴘʀɪᴠᴀᴅᴀ. '
         'sᴇʀᴀ ǫᴜᴇ ᴇsᴛᴀᴏ ғᴀʟᴀɴᴅᴏ ᴍᴀʟ ᴅᴇ ᴛɪ?🤔')
 locale_pt.spoiler_message = (
-        '              ✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
+        '\t✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
         '👥ᴍᴇɴsᴀɢᴇᴍ ᴇɴᴠɪᴀᴅᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏs ᴏs ɪɴᴛᴇɢʀᴀɴᴛᴇs ᴅᴏ ɢʀᴜᴘᴏ. '
         'sᴜᴀ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇ, ᴄᴜʀɪᴏsᴏ(ᴀ)!')
 locale_en.except_message = 'Private message for everyone except %s.'
@@ -86,7 +86,7 @@ locale_it.except_message = 'Messaggio privato per tutti tranne %s.'
 
 # SPOILER_MESSAGE
 locale_pt.spoiler_message = (
-        '              ✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
+        '\t✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
         '👥ᴍᴇɴsᴀɢᴇᴍ ᴇɴᴠɪᴀᴅᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏs ᴏs ɪɴᴛᴇɢʀᴀɴᴛᴇs ᴅᴏ ɢʀᴜᴘᴏ. '
         'sᴜᴀ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇ, ᴄᴜʀɪᴏsᴏ(ᴀ)!')
 locale_en.spoiler_message = 'Public spoiler message.'
