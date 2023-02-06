@@ -49,10 +49,7 @@ locale_de.spoiler_title = 'Spoiler'
 locale_it.spoiler_title = 'Spoiler'
 
 # TOO_LONG_MESSAGE
-locale_pt.too_long_message = (
-        '✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
-        '🥺 ᴅᴇsᴄᴜʟᴘᴇ, sᴜᴀ ᴍᴇɴsᴀɢᴇᴍ ɴᴀᴏ ᴘᴏᴅᴇ sᴇʀ ᴇɴᴠɪᴀᴅᴀ ' 
-        'ᴘᴏʀǫᴜᴇ ᴇxᴄᴇᴅᴇ ᴏ ʟɪᴍɪᴛᴇ ᴅᴇ 200 ᴄᴀʀᴀᴄᴛᴇʀᴇs.')
+locale_pt.too_long_message = '🥺 Desculpe, sua mensagem não pode ser enviada porque excedeu o limite de 200 caracteres.'
 locale_en.too_long_message = '🥺 Sorry, your message can\'t be sent as it exceeds the limit of 200 characters.'
 locale_ru.too_long_message = '🥺 Ваше сообщение не может быть отправлено, так как его длина превышает лимит в 200 символов.'
 locale_uk.too_long_message = '🥺 Ваше повідомлення не може бути відправлено, так як його довжина перевищує ліміт в 200 символів.'
@@ -60,9 +57,7 @@ locale_de.too_long_message = '🥺 Sorry, deine Nachricht kann nicht gesendet we
 locale_it.too_long_message = '🥺 Mi dispiace, il tuo messaggio non può essere mandato, supera il limite di 200 caratteri.'
 
 # FOR_MESSAGE
-locale_pt.for_message = (
-        '✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
-        '🔒 sᴇɢʀᴇᴅɪɴʜᴏ ᴇɴᴠɪᴀᴅᴏ ᴄᴏᴍ sᴜᴄᴇssᴏ ᴘᴀʀᴀ %s.')
+locale_pt.for_message = '🔒 Mensagem secreta para %s.'
 locale_en.for_message = 'Private message for %s.'
 locale_ru.for_message = 'Приватное сообщение для %s.'
 locale_uk.for_message = 'Приватне повідомлення для %s.'
@@ -71,13 +66,8 @@ locale_it.for_message = 'Messaggio privato per %s.'
 
 # EXCEPT_MESSAGE
 locale_pt.except_message = (
-        '✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
-        '💬 %s, ᴠᴏᴄᴇ ғᴏɪ ᴇxʟᴜɪᴅᴏ(ᴀ) ᴅᴇsᴛᴀ ᴍᴇɴsᴀɢᴇᴍ ᴘʀɪᴠᴀᴅᴀ. '
-        'sᴇʀᴀ ǫᴜᴇ ᴇsᴛᴀᴏ ғᴀʟᴀɴᴅᴏ ᴍᴀʟ ᴅᴇ ᴛɪ?🤔')
-locale_pt.spoiler_message = (
-        '✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
-        '👥ᴍᴇɴsᴀɢᴇᴍ ᴇɴᴠɪᴀᴅᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏs ᴏs ɪɴᴛᴇɢʀᴀɴᴛᴇs ᴅᴏ ɢʀᴜᴘᴏ. '
-        'sᴜᴀ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇ, ᴄᴜʀɪᴏsᴏ(ᴀ)!')
+        '💬 %s, Você foi excluído(a) desta mensagem secreta. '
+        'Será que estão falando mal de ti?🤔')
 locale_en.except_message = 'Private message for everyone except %s.'
 locale_ru.except_message = 'Приватное сообщение для всех, кроме %s.'
 locale_uk.except_message = 'Приватне повідомлення для всіх, крім %s.'
@@ -85,10 +75,7 @@ locale_de.except_message = 'Private Nachricht an alle außer %s.'
 locale_it.except_message = 'Messaggio privato per tutti tranne %s.'
 
 # SPOILER_MESSAGE
-locale_pt.spoiler_message = (
-        '✉️ℙ𝕠𝕞𝕓𝕠 ℂ𝕠𝕣𝕣𝕖𝕚𝕠✉️\n\n\n'
-        '👥ᴍᴇɴsᴀɢᴇᴍ ᴇɴᴠɪᴀᴅᴀ ᴘᴀʀᴀ ᴛᴏᴅᴏs ᴏs ɪɴᴛᴇɢʀᴀɴᴛᴇs ᴅᴏ ɢʀᴜᴘᴏ. '
-        'sᴜᴀ ᴏᴘᴏʀᴛᴜɴɪᴅᴀᴅᴇ, ᴄᴜʀɪᴏsᴏ(ᴀ)!')
+locale_pt.spoiler_message = '👥Mensagem secreta enviada para todos os integrantes do grupo.'
 locale_en.spoiler_message = 'Public spoiler message.'
 locale_ru.spoiler_message = 'Публичное сообщение под спойлером.'
 locale_uk.spoiler_message = 'Публічне повідомлення під спойлером.'
@@ -172,8 +159,7 @@ locale_de.too_long_description = 'Bitte fasse dich etwas kürzer und überschrei
 locale_it.too_long_description = 'Perfavore accorcia la lunghezza del tuo messaggio in modo che non superi i 200 caratteri.'
 
 # NOT_ALLOWED
-locale_pt.not_allowed = (
-        '⚠️ᴠᴏᴄê ɴãᴏ ᴛᴇᴍ ᴘᴇʀᴍɪssãᴏ ᴘᴀʀᴀ ᴠɪsᴜᴀʟɪᴢᴀʀ ᴇsᴛᴇ ᴄᴏɴᴛᴇᴜᴅᴏ⚠️')
+locale_pt.not_allowed = '⚠️ᴠᴏᴄê ɴãᴏ ᴛᴇᴍ ᴘᴇʀᴍɪssãᴏ ᴘᴀʀᴀ ᴠɪsᴜᴀʟɪᴢᴀʀ ᴇsᴛᴇ ᴄᴏɴᴛᴇᴜᴅᴏ⚠️'
 locale_en.not_allowed = 'You are not allowed to view this content.'
 locale_ru.not_allowed = 'Вам запрещено просматривать этот контент.'
 locale_uk.not_allowed = 'Вам заборонено переглядати цей контент.'
@@ -189,7 +175,7 @@ locale_de.not_accessible = 'Der Inhalt ist nicht mehr sichtbar.'
 locale_it.not_accessible = 'Questo contenuto non è più accessibile.'
 
 # VIEW
-locale_pt.view = '📩 ᴄʟɪǫᴜᴇ ᴘᴀʀᴀ ʟᴇʀ 📩'
+locale_pt.view = 'ᴄʟɪǫᴜᴇ ᴘᴀʀᴀ ʟᴇʀ'
 locale_en.view = 'View'
 locale_ru.view = 'Открыть'
 locale_uk.view = 'Відкрити'
